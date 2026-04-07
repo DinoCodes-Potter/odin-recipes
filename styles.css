@@ -1,0 +1,25 @@
+
+body {
+  outline: 3px back dotted;
+}
+.pizza {
+  outline: 5px solid black; 
+  border-radius: 30px;
+  background: aquamarine;
+}
+.burger {
+  outline: 5px solid black;
+  border-radius: 30px;
+  background: aquamarine
+}
+.fries {
+  outline: 5px solid black;
+  border-radius: 30px;
+  background: aquamarine
+}
+h2 {
+  text-align: center;
+}
+img {
+  padding: 50px;  
+}
